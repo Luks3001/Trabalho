@@ -1,0 +1,36 @@
+.minhaPagina {
+    background-color: azure;}
+
+
+.nome {color: blue;
+text-align: center;}
+
+
+.paragrafo {text-align: justify; font-size: 20px;}
+
+
+.hobbies li {margin: 10px;}
+
+
+.imagem {border-radius: 10px; height: 150px;}
+
+.tabela {border-style:solid; font-size: 30px; font-style:italic;}
+
+.site:hover{color: red;}
+.site {font-size: 25px; font-weight: bolder;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
